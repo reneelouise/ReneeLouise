@@ -1,4 +1,4 @@
-# :wave: Hello, My name is Renée-Louise
+# :wave: Hello, my name is Renée-Louise
 ## Welcome to my coding world 🌍
 
 ## 🎓 From Economics Graduate, to Passionate Programmer! 
