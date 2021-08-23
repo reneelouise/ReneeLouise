@@ -1,7 +1,7 @@
 # :wave: Hello World, My name is Renée-Louise
-## Welcome to my coding world! 🌍
+## Welcome to my coding world 🌍
 
-## 🎓 From Economics Graduate, to Passionate Programmer. 
+## 🎓 From Economics Graduate, to Passionate Programmer! 
 
 While studying Economics at University, I would always find myself building websites. Initially, I used platforms like Wix, Wordpress and Shopify to design my imaginations.
 However as time went on, I grew more curious about how these website-building platforms were constructed using code. This led me to begin my programming journey. 👩🏿‍💻
