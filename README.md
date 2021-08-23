@@ -4,12 +4,10 @@
 ## 🎓 From Economics Graduate, to Passionate Programmer. 
 
 While studying Economics at University, I would always find myself building websites. Initially, I used platforms like Wix, Wordpress and Shopify to design my imaginations.
-
 However as time went on, I grew more curious about how these website-building platforms were constructed using code. This led me to begin my programming journey. 👩🏿‍💻
 
 
 I taught myself how to programme in HTML, CSS and Javascript. using platforms like Udemy, Freecodecamp, Datacamp, Google and YouTube. 
-
 This helped me to understand more about the foundations of Computer Science, but also helped to build my confidence when using these three programming languages.
 
 
