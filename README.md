@@ -23,4 +23,4 @@ I put my skills to practice in the real world as a freelancer.
 As a freelance front-end software developer, I learned a lot about working independently, user testing, solving digital problems, stakeholder management, The Software Development Life Cycle and working in an Agile way. 
 I have also built various websites for different clients, including a media and communications website (www.ivymedias.com), and a remembrance website (www.peteronu.com).  
 I have decided to continue learning new skills to best prepare me for a role within the industry. 
-I am currently completing a Full Stack Software Engineering Bootcamp run by BlackCodHer, sponsored by GCHQ. Look out for more projects to come!😁
+I am currently completing a sponsored Full Stack Software Engineering Bootcamp run by BlackCodHer. Look out for more projects to come!😁
