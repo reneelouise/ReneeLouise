@@ -2,8 +2,6 @@
 
 🎤 I'm also a speaker, where I love sharing my knowledge and experiences with the tech community. It's a great opportunity for me to connect with like-minded individuals and learn from others in the industry. You may like to hear from me or my guest on the Blaq Byte Podcast: https://www.buzzsprout.com/2115341 
 
-👩‍💻 Over 3 years of software engineering experience
-
 🤓 I pursued my undergraduate studies in BA Economics at the University of Leicester. Although my academic background is in Economics, my curiosity and interest in technology led me to a career in software engineering.
 
 ✈️ Outside of work, I'm a travel enthusiast. Exploring new places, experiencing different cultures, and trying local cuisines are some of my favorite things to do and allows me to broaden my horizons and gain a fresh perspective on life. 
